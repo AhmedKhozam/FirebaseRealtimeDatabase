@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RealtimeDatabase</string>
+    <array name="Generies">
+        <item>Folk</item>
+        <item>Sufi</item>
+        <item>Rock</item>
+    </array>
+</resources>
